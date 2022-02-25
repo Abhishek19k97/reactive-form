@@ -1,0 +1,14 @@
+.hero-heading{
+  color: cadetblue;
+  text-align: center;
+  margin-top: 10px;
+}
+.form-body{
+  margin: 5% 25%;
+  border: 2px solid grey;
+  border-radius: 2%;
+  padding: 5% 3%;
+}
+.form-group{
+  margin-bottom: 10px;
+}
